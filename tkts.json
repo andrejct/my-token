@@ -2,7 +2,7 @@
     "symbol": "TKTS",
     "name": "TokenTales",
     "description": "Token Tales Token",
-    "logoURI": "https://raw.githubusercontent.com/andrejct/my-token/main/tokentales.png",
+    "image": "https://raw.githubusercontent.com/andrejct/my-token/main/tokentales.png",
     "tags": [
       "social-token"
     ]
